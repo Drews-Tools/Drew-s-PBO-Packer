@@ -3,7 +3,7 @@
 # Overview
 
 Drews PBO Packer is a standalone utility designed to streamline the process of packing and managing PBO files for DayZ mods. This program offers an intuitive GUI interface, ensuring that mod creators can efficiently package their mods without diving into complex command-line instructions. It is distributed as a ready-to-use executable, requiring no prior setup or installation of Python.
-
+![DPBOP](https://github.com/user-attachments/assets/cea833ba-becd-428b-b84c-66af36b40bec)
 # Features
 
 DayZ Tools Integration: Automatically detects the installation directory for DayZ Tools.
